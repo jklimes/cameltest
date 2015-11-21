@@ -8,7 +8,7 @@ import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 import java.io.PrintWriter;
 
-@WebServlet(urlPatterns = "/",name = "TestServlet")
+@WebServlet(name = "TestServlet")
 public class TestServlet extends javax.servlet.http.HttpServlet {
     @EJB
     private TestSessionBean testSessionBean;
