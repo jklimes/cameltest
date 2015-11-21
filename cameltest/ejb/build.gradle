@@ -1,3 +1,4 @@
 dependencies {
     compile 'org.jboss.spec.javax.ejb:jboss-ejb-api_3.1_spec:1.0.2.Final'
+    compile 'org.jboss.spec.javax.jms:jboss-jms-api_1.1_spec:1.0.1.Final'
 }
