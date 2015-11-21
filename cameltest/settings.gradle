@@ -1,0 +1,5 @@
+rootProject.name = 'cameltest'
+include 'ear'
+include 'ejb'
+include 'web'
+
